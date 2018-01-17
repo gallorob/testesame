@@ -1,0 +1,35 @@
+V-00	Inizio partita	11/01/14 21:00
+V-98	Scontro in vetta per il campionato	11/01/14 21:00
+V-01	Inizia il primo set!	11/01/14 21:00
+V-03	Punto di Rossi (A)	11/01/14 21:01
+V-03	Ancora Rossi (A), inarrestabile!	11/01/14 21:02
+V-06	Time-out per Canò (B)	11/01/14 21:02
+V-04	Punto di Beretta (B)	11/01/14 21:04
+V-03	Bianchi (A) a segno.	11/01/14 21:05
+V-04	Muro di Amadori (B)!!!	11/01/14 21:05
+V-03	Rossi ancora sugli scudi!	11/01/14 21:07
+V-03	Ace di verdi!	11/01/14 21:08
+V-02	Finito il primo set. A avanti per 1-0	11/01/14 21:10
+V-01	Inizia il secondo set.	11/01/14 21:15
+V-03	Subito Bianchi per A	11/01/14 21:16
+V-04	Varzi pareggia a muro!	11/01/14 21:16
+V-03	Rossi a segno!	11/01/14 21:17
+V-04	Beretta, grande attacco.	11/01/14 21:18
+V-04	Ace di Beretta!	11/01/14 21:19
+V-05	Time-out per Neri (A)	11/01/14 21:19
+V-04	Ancora ace di Beretta!!!	11/01/14 21:20
+V-05	Altro tempo per il mister di A	11/01/14 21:20
+V-04	Beretta!!! Inarrestabile servizio!	11/01/14 21:22
+V-02	Beretta vince il secondo set per B praticamwente da solo!!!	11/01/14 21:22
+V-01	Inizia il terzo e decisivo set.	11/01/14 21:27
+V-03	Punto di Rossi (A)	11/01/14 21:28
+V-03	Ancora Rossi (A), inarrestabile!	11/01/14 21:29
+V-06	Time-out per Canò (B)	11/01/14 21:29
+V-04	Beretta, grande attacco.	11/01/14 21:30
+V-05	Time-out per Neri (A)	11/01/14 21:30
+V-03	Verdi non sbaglia	11/01/14 21:31
+V-04	Beretta a muro...c'è!!!	11/01/14 21:32
+V-03	Verdi ancora!!!	11/01/14 21:33
+V-03	Beretta chiude con una diagonale stretta!	11/01/14 21:33
+V-02	Set decisivo vinto da A	11/01/14 21:33
+V-99	La partita è stata bellissima, A si avvia a vincere il campionato.	11/01/14 21:33
